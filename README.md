@@ -1,22 +1,3 @@
-### Contents
-
-- [Models](#models)
-- [Inference](#inference)
-- [Training](#training)
-- [Evaluation](#evaluation)
-- [To Do](#to-do)
-
-#### Dependencies
-
-- [soundfile](https://pypi.org/project/SoundFile/): audio loading
-- [torchparse](https://github.com/ksanjeevan/torchparse): .cfg easy model definition
-- [pytorch/audio](https://github.com/pytorch/audio): Audio transforms 
-
-
-#### Features
-- Easily define CRNN in .cfg format
-- Spectrogram computation on GPU
-- Audio data augmentation: Cropping, White Noise, Time Stretching (using phase vocoder on GPU!)
 
 
 ### Models
