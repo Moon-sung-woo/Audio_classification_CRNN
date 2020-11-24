@@ -1,17 +1,3 @@
-
-
-# PyTorch Audio Classification: Urban Sounds
-
-
-Classification of audio with variable length using a CNN + LSTM architecture on the [UrbanSound8K](https://urbansounddataset.weebly.com/urbansound8k.html) dataset.
-
-
-Example results:
-<p align="center">
-<img src="result_plots/specs.png" width="850px"/>
-</p>
-
-
 ### Contents
 
 - [Models](#models)
