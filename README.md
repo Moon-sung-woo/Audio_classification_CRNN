@@ -3,13 +3,6 @@
 [ksanjeevan](https://github.com/ksanjeevan/crnn-audio-classification)을 참고하여 코드를 작성했습니다.
 ### Models
 
-CRNN architecture: 
-<p align="center">
-<img src="result_plots/arch.png" width="400px"/>
-</p>
-
-Printing model defined with [torchparse](https://github.com/ksanjeevan/torchparse):
-
 ```
 AudioCRNN(
   (spec): MelspectrogramStretch(num_bands=128, fft_len=2048, norm=spec_whiten, stretch_param=[0.4, 0.4])
