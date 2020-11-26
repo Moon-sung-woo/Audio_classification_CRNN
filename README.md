@@ -55,17 +55,3 @@ Then obtain defined metrics:
 100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 34/34 [00:03<00:00, 12.68it/s]
 {'avg_precision': '0.725', 'avg_recall': '0.719', 'accuracy': '0.804'}
 ```
-
-##### 10-Fold Cross Validation
-
-| Arch   |      Accuracy      |  AvgPrecision(macro) | AvgRecall(macro) |
-|----------|:-------------:|------:|------:|
-| CNN |  71.0% | 63.4% | 63.5% |
-| CRNN |  72.3% | 64.3% | 65.0% |
-| CRNN(Bidirectional, Dropout) |  73.5% | 65.5% | 65.8% |
-| CRNN(Dropout) |  73.0% | 65.5% | 65.7% |
-| CRNN(Bidirectional) |  72.8% | 64.3% | 65.2% |
-
-
-
-
