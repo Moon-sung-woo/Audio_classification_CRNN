@@ -66,32 +66,6 @@ Then obtain defined metrics:
 | CRNN(Dropout) |  73.0% | 65.5% | 65.7% |
 | CRNN(Bidirectional) |  72.8% | 64.3% | 65.2% |
 
-Per fold metrics CRNN(Bidirectional, Dropout):
-
-| Fold   |      Accuracy      |  AvgPrecision(macro) | AvgRecall(macro) |
-|----------|:-------------:|------:|------:|
-|1|73.1%|65.1%|66.1%|
-|2|80.7%|69.2%|68.9%|
-|3|62.8%|57.3%|57.5%|
-|4|73.6%|65.2%|64.9%|
-|5|78.4%|70.3%|71.5%|
-|6|73.5%|65.5%|65.9%|
-|7|74.6%|67.0%|66.6%|
-|8|66.7%|62.3%|61.7%|
-|9|71.7%|60.7%|62.7%|
-|10|79.9%|72.2%|71.8%|
-
-
-### To Do
-- [ ] commit jupyter notebook dataset exploration
-- [x] Switch overt to using pytorch/audio
-- [x] use torchaudio-contrib for STFT transforms
-- [x] CRNN entirely defined in .cfg
-- [x] Some bug in 'infer'
-- [x] Run 10-fold Cross Validation
-- [x] Switch over to pytorch/audio since the merge 
-- [ ] Comment things
-
 
 
 
