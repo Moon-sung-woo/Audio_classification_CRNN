@@ -36,12 +36,6 @@ As well as [time stretching](https://github.com/keunwoochoi/torchaudio-contrib/b
 <img src="result_plots/phase_vocoder.png" width="600px"/>
 </p>
 
-
-##### TensorboardX
-<p align="left">
-<img src="result_plots/tb.png" width="600px"/>
-</p>
-
 #### Evaluation
 
 
