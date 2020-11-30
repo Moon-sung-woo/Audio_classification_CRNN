@@ -30,9 +30,6 @@ Compose(
     ToTensorAudio()
 )
 ```
-<p align="left">
-<img src="result_plots/phase_vocoder.png" width="600px"/>
-</p>
 
 #### Evaluation
 
