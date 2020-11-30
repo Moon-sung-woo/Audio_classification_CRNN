@@ -30,7 +30,7 @@ Compose(
     ToTensorAudio()
 )
 ```
-As well as [time stretching](https://github.com/keunwoochoi/torchaudio-contrib/blob/781fe10ee0ee6ccab4628c7e0a56ce8e3add0502/torchaudio_contrib/layers.py#L236):
+(https://github.com/keunwoochoi/torchaudio-contrib/blob/781fe10ee0ee6ccab4628c7e0a56ce8e3add0502/torchaudio_contrib/layers.py#L236):
 
 <p align="left">
 <img src="result_plots/phase_vocoder.png" width="600px"/>
