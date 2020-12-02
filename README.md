@@ -1,4 +1,4 @@
-# 수정중입니다.   
+# 수정중입니다.
 
 [ksanjeevan](https://github.com/ksanjeevan/crnn-audio-classification)을 참고하여 코드를 작성했습니다.
 
